@@ -2,7 +2,7 @@
 ## 代码概况
 
  - 父类
- ![父类的属性和方法](https://img-blog.csdnimg.cn/20201015164708946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdyMjIz,size_16,color_FFFFFF,t_70#pic_center)
+ - ![父类的属性和方法](https://img-blog.csdnimg.cn/20201015164708946.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdyMjIz,size_16,color_FFFFFF,t_70#pic_center)
  
     | 父类属性/方法        | 类型/返回类型    |  描述  |
     | --------   | :-----:   | :----: |
@@ -51,4 +51,4 @@
 - 关于数据隐秘性、封装性，则体现在各个属性保存在父类当中，若需调用则必须使用对应的get_();函数，外界无法直接取得。
 
 ## 结果截图
- ![具体战斗Log](https://img-blog.csdnimg.cn/20201015225904319.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdyMjIz,size_16,color_FFFFFF,t_70#pic_center)
+ - ![具体战斗Log](https://img-blog.csdnimg.cn/20201015225904319.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdyMjIz,size_16,color_FFFFFF,t_70#pic_center)
